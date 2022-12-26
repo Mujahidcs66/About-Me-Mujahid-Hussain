@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mujahid Hussain from UET Lahore.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning django and react web development.
-- 💞️ I’m looking to collaborate on adaptive learning through my website which will be published in near future IN SHAA ALLAH.
+- 👋 Hi, I’m Mujahid Hussain from University of Engineering and Technology Lahore, Pakistan.
+- 👀 Currently, I'm working as a Software Engineer.
+- 🌱 Currently, I'm working full time in Microsoft Dynamics 365 Finance & Operations CRM and part time in Django Web Development Framework.
+- 💞️ If you need any kind of help in above mentioned technologies, you can reach me.
 - 📫 How to reach me --> mujahidhussaingee@gmail.com
 
 <!---
